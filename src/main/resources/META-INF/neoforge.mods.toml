@@ -12,7 +12,7 @@ description='''Предупреждает в чате, когда прочнос
 [[dependencies.itemwarning]]
 modId="neoforge"
 type="required"
-versionRange="[21.1.267,)"
+versionRange="[21.1.266,)"
 ordering="NONE"
 side="BOTH"
 
