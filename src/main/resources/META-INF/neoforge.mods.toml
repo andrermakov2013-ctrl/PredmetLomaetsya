@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="itemwarning"
+version="1.0.0"
+displayName="Предмет ломается"
+authors="S7"
+description='''Предупреждает в чате, когда прочность предметов падает до 20%, 15%, 10% и 5%.'''
+
+[[dependencies.itemwarning]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.267,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.itemwarning]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
